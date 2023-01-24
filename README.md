@@ -1,7 +1,7 @@
 # Issue:
 A certain openvr version is needed. Therefore run 
 ```
-pip install pyopenvr==1.3.2201
+pip install openvr==1.3.2201
 ```
 
 # Original README
