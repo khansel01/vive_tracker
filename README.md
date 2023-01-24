@@ -1,3 +1,11 @@
+# Issue:
+A certain openvr version is needed. Therefore run 
+```
+pip install pyopenvr==1.3.2201
+```
+
+# Original README
+
 [![Link to a video of this project in action.](https://img.youtube.com/vi/fvbSUXGViSY/0.jpg)](https://youtu.be/fvbSUXGViSY)
 
 This ROS Indigo Node publishes pose data from HTC Vive Tracker Ubuntu 14.04. 
